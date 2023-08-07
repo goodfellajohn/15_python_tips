@@ -13,8 +13,11 @@ Source: https://gist.github.com/Julynx/dd500d8ae7e335c3c84684ede2293e1f
 - [Contact](#contact)
 
 ## Scripts
-### 15_python_tips/placeholder2.ipynb
-### 15_python_tips/placeholder2.ipynb
+### 15_Python_Tips.ipynb
+### KhuyenTranTips.ipynb
+### handdrawn_charts.ipynb
+### sql_pandas.ipynb
+
 
 > ## Installation
 
